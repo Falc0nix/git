@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Desktop\Geekbrains\git\C#\lesson1\bin\Debug\net7.0\lesson1.exe
+C:\Users\PC\OneDrive\Desktop\Geekbrains\git\C#\lesson1\bin\Debug\net7.0\lesson1.deps.json
+C:\Users\PC\OneDrive\Desktop\Geekbrains\git\C#\lesson1\bin\Debug\net7.0\lesson1.runtimeconfig.json
+C:\Users\PC\OneDrive\Desktop\Geekbrains\git\C#\lesson1\bin\Debug\net7.0\lesson1.dll
+C:\Users\PC\OneDrive\Desktop\Geekbrains\git\C#\lesson1\bin\Debug\net7.0\lesson1.pdb
+C:\Users\PC\OneDrive\Desktop\Geekbrains\git\C#\lesson1\obj\Debug\net7.0\lesson1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Desktop\Geekbrains\git\C#\lesson1\obj\Debug\net7.0\lesson1.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Desktop\Geekbrains\git\C#\lesson1\obj\Debug\net7.0\lesson1.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Desktop\Geekbrains\git\C#\lesson1\obj\Debug\net7.0\lesson1.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\Geekbrains\git\C#\lesson1\obj\Debug\net7.0\lesson1.dll
+C:\Users\PC\OneDrive\Desktop\Geekbrains\git\C#\lesson1\obj\Debug\net7.0\refint\lesson1.dll
+C:\Users\PC\OneDrive\Desktop\Geekbrains\git\C#\lesson1\obj\Debug\net7.0\lesson1.pdb
+C:\Users\PC\OneDrive\Desktop\Geekbrains\git\C#\lesson1\obj\Debug\net7.0\lesson1.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Desktop\Geekbrains\git\C#\lesson1\obj\Debug\net7.0\ref\lesson1.dll
